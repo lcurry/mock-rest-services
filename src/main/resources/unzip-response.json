@@ -2,9 +2,18 @@
 	"root_location": "/mng",
 	"files_info": [
 		{
-			"orig_file_name": "some_viruses_2.exe",
+			"orig_file_name": "some_viruses_1.exe",
 			"file_name": "3b027c28517a437c4fb12221e6c55280c431014da38e7bc249cac82afc8e840f.exe",
 			"path": "/mng/3b027c/3b027c28517a437c4fb12221e6c55280c431014da38e7bc249cac82afc8e840f"
+		},{
+			"orig_file_name": "test_2.txt",
+			"file_name": "3b027c28517a437c4fb12221e6c55280c431014da38e7bc249cac82afc8e840f.txt",
+			"path": "/mng/3b027c/3b027c28517a437c4fb12221e6c55280c431014da38e7bc249cac82afc8e840f"
+		},{
+			"orig_file_name": "test_3.pdf",
+			"file_name": "3b027c28517a437c4fb12221e6c55280c431014da38e7bc249cac82afc8e840f.pdf",
+			"path": "/mng/3b027c/3b027c28517a437c4fb12221e6c55280c431014da38e7bc249cac82afc8e840f"
 		}
+		
 	]
 }
