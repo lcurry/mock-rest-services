@@ -1,0 +1,24 @@
+{
+	"file_data": [
+		{
+			"root_location": "/home/ecurry/customers/DHS/Malware/test/workflow",
+			"files_info": [
+				{
+					"orig_file_name": "test1.exe",
+					"file_name": "test1.exe",
+					"path": "/home/ecurry/customers/DHS/Malware/test/workflow/test1"
+				},
+				{
+					"orig_file_name": "test1.txt",
+					"file_name": "test1.txt",
+					"path": "/home/ecurry/customers/DHS/Malware/test/workflow/test1"
+				},
+				{
+					"orig_file_name": "test1.pdf",
+					"file_name": "test1.pdf",
+					"path": "/home/ecurry/customers/DHS/Malware/test/workflow/test1"
+				}
+			]
+		}
+	]
+}

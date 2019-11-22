@@ -1,0 +1,513 @@
+{
+    "claim": {
+        "orchestrationName": "Adjudication",
+        "claimHeader": {
+            "accidentCountry": null,
+            "accidentDate": null,
+            "acuteManifestationDate": null,
+            "adjustedRepricedClaimID": null,
+            "admissionDateTime": "20140314T050000",
+            "admissionSource": "2",
+            "admissionType": "1",
+            "anesthesiaRelatedSurgicalProcedure": null,
+            "autoAccidentState": null,
+            "benefitAssignment": "Y",
+            "billType": "0111",
+            "billingNoteText": null,
+            "carePlanOversightID": null,
+            "claimFrequencyCode": "1",
+            "claimTypeCode": "I",
+            "CLIANumber": null,
+            "delayReasonCode": null,
+            "demonstrationProjectID": null,
+            "disabilityBegin": null,
+            "disabilityDateFormatQualifier": null,
+            "disabilityDateQualifier": null,
+            "dischargeHour": "0700",
+            "facilityCodeQualifier": "A",
+            "firstVisitDate": null,
+            "hospitalizationBeginDate": "20140314",
+            "hospitalizationEndDate": "20140314",
+            "infoReleaseCode": "Y",
+            "ICDType": "ABK",
+            "industryCode": null,
+            "initialTreatmentDate": null,
+            "lastDateWorked": null,
+            "lastMenstrualPeriod": null,
+            "lastSeenDate": null,
+            "lastXRayDate": null,
+            "mammographyCertID": null,
+            "medicalRecordID": null,
+            "medicareSection4081Indicator": null,
+            "originatorApplicationTransactionIdentifier": "0021",
+            "payerClaimControlID": null,
+            "peerReviewAuthorizationID": null,
+            "predeterminationID": null,
+            "prescriptionDate": null,
+            "principalDiagnosis": "S62514A",
+            "priorAuthorization": null,
+            "providerAcceptsAssignment": "C",
+            "providerSignature": null,
+            "receivedDate": "20140717",
+            "referralID": null,
+            "repricedClaimNo": null,
+            "repricerReceivedDate": "20140314",
+            "returnToWorkDate": null,
+            "serviceAuthorizationException": null,
+            "serviceEndDate": null,
+            "serviceFromDate": null,
+            "similarSymptomsDate": null,
+            "specialProgramCode": null,
+            "spinalManipulationPatCondCode": null,
+            "termsDiscountPercentage": null,
+            "admittingDiagnosis": [
+                {
+                    "code": "S62521K",
+                    "qualifier": "ABJ"
+                }
+            ],
+            "attendingProvider": {
+                "entityIdentifierCode": "71",
+                "entityTypeQualifier": "1",
+                "firstName": "LAUREN",
+                "identificationCodeQualifier": "XX",
+                "lastName": "CARUSO PHD",
+                "middleName": "S",
+                "nationalProviderIdentifier": "1114968971",
+                "speciality": null,
+                "suffix": null,
+                "type": null
+            },
+            "billingProvider": {
+                "currencyCode": null,
+                "entityIdentifierCode": "85",
+                "entityTypeQualifier": "2",
+                "federalTaxID": "131624190",
+                "firstName": null,
+                "hierarchicalChildCode": "1",
+                "hierarchicalIDNumber": "1",
+                "hierarchicalLevelCode": "20",
+                "lastName": "NEW YORK HOSPITAL CORNELL MEDICAL CENTER",
+                "middleName": null,
+                "nationalProviderIdentifier": "1003003393",
+                "suffix": null,
+                "taxIdentifierQualifier": "EI",
+                "taxonomy": null,
+                "address": [
+                    {
+                        "addressLine1": "274 DUFFY AVE",
+                        "addressLine2": null,
+                        "city": "HICKSVILLE",
+                        "country": null,
+                        "countrySubdivisionCode": null,
+                        "postalCode": "118010000",
+                        "state": "NY"
+                    }
+                ]
+            },
+            "extension": {
+                "COBdiscrepancyInd": "N",
+                "EDIClaimID": "14198-TST40T000",
+                "intakeDocumentID": "DOCID_1419800O40T000",
+                "intakeFileID": "201419811147046037",
+                "isProduction": "T",
+                "isSplit": false,
+                "medicaidReclamationIndicator": "15",
+                "orthodonticBandingDate": null,
+                "orthodonticTreatmentMonthsCount": null,
+                "orthodonticTreatmentMonthsRemainingCount": null,
+                "orthodonticTreatmentIndicator": null,
+                "subType": "ISC",
+                "tradingPartnerID": "ENS0000000000PB"
+            },
+            "otherProcedure": [
+                {
+                    "otherprocedureinfo": [
+                        {
+                            "otherProcedureCode": "0RWLX8Z",
+                            "procedureCodeDateFormat": "D8",
+                            "procedureDate": "20140314",
+                            "qualifier": "BBQ"
+                        },
+                        {
+                            "otherProcedureCode": "0S9J30Z",
+                            "procedureCodeDateFormat": "D8",
+                            "procedureDate": "20140314",
+                            "qualifier": "BBQ"
+                        },
+                        {
+                            "otherProcedureCode": "F07F1FZ",
+                            "procedureCodeDateFormat": "D8",
+                            "procedureDate": "20140314",
+                            "qualifier": "BBQ"
+                        },
+                        {
+                            "otherProcedureCode": "0Q8R0ZZ",
+                            "procedureCodeDateFormat": "D8",
+                            "procedureDate": "20140314",
+                            "qualifier": "BBQ"
+                        },
+                        {
+                            "otherProcedureCode": "0Q923ZZ",
+                            "procedureCodeDateFormat": "D8",
+                            "procedureDate": "20140314",
+                            "qualifier": "BBQ"
+                        },
+                        {
+                            "otherProcedureCode": "00160K5",
+                            "procedureCodeDateFormat": "D8",
+                            "procedureDate": "20140314",
+                            "qualifier": "BBQ"
+                        },
+                        {
+                            "otherProcedureCode": "F0636PZ",
+                            "procedureCodeDateFormat": "D8",
+                            "procedureDate": "20140314",
+                            "qualifier": "BBQ"
+                        },
+                        {
+                            "otherProcedureCode": "0PPT34Z",
+                            "procedureCodeDateFormat": "D8",
+                            "procedureDate": "20140314",
+                            "qualifier": "BBQ"
+                        },
+                        {
+                            "otherProcedureCode": "0PPQX4Z",
+                            "procedureCodeDateFormat": "D8",
+                            "procedureDate": "20140314",
+                            "qualifier": "BBQ"
+                        },
+                        {
+                            "otherProcedureCode": "0PPR45Z",
+                            "procedureCodeDateFormat": "D8",
+                            "procedureDate": "20140314",
+                            "qualifier": "BBQ"
+                        },
+                        {
+                            "otherProcedureCode": "0RQK3ZZ",
+                            "procedureCodeDateFormat": "D8",
+                            "procedureDate": "20140314",
+                            "qualifier": "BBQ"
+                        },
+                        {
+                            "otherProcedureCode": "0RUM07Z",
+                            "procedureCodeDateFormat": "D8",
+                            "procedureDate": "20140314",
+                            "qualifier": "BBQ"
+                        }
+                    ]
+                },
+                {
+                    "otherprocedureinfo": [
+                        {
+                            "otherProcedureCode": "0RWLX8Z",
+                            "procedureCodeDateFormat": "D8",
+                            "procedureDate": "20140314",
+                            "qualifier": "BBQ"
+                        },
+                        {
+                            "otherProcedureCode": "0S9J30Z",
+                            "procedureCodeDateFormat": "D8",
+                            "procedureDate": "20140314",
+                            "qualifier": "BBQ"
+                        },
+                        {
+                            "otherProcedureCode": "F07F1FZ",
+                            "procedureCodeDateFormat": "D8",
+                            "procedureDate": "20140314",
+                            "qualifier": "BBQ"
+                        },
+                        {
+                            "otherProcedureCode": "0Q8R0ZZ",
+                            "procedureCodeDateFormat": "D8",
+                            "procedureDate": "20140314",
+                            "qualifier": "BBQ"
+                        },
+                        {
+                            "otherProcedureCode": "0Q923ZZ",
+                            "procedureCodeDateFormat": "D8",
+                            "procedureDate": "20140314",
+                            "qualifier": "BBQ"
+                        },
+                        {
+                            "otherProcedureCode": "00160K5",
+                            "procedureCodeDateFormat": "D8",
+                            "procedureDate": "20140314",
+                            "qualifier": "BBQ"
+                        },
+                        {
+                            "otherProcedureCode": "F0636PZ",
+                            "procedureCodeDateFormat": "D8",
+                            "procedureDate": "20140314",
+                            "qualifier": "BBQ"
+                        },
+                        {
+                            "otherProcedureCode": "0PPT34Z",
+                            "procedureCodeDateFormat": "D8",
+                            "procedureDate": "20140314",
+                            "qualifier": "BBQ"
+                        },
+                        {
+                            "otherProcedureCode": "0PPQX4Z",
+                            "procedureCodeDateFormat": "D8",
+                            "procedureDate": "20140314",
+                            "qualifier": "BBQ"
+                        },
+                        {
+                            "otherProcedureCode": "0PPR45Z",
+                            "procedureCodeDateFormat": "D8",
+                            "procedureDate": "20140314",
+                            "qualifier": "BBQ"
+                        },
+                        {
+                            "otherProcedureCode": "0RQK3ZZ",
+                            "procedureCodeDateFormat": "D8",
+                            "procedureDate": "20140314",
+                            "qualifier": "BBQ"
+                        },
+                        {
+                            "otherProcedureCode": "0RUM07Z",
+                            "procedureCodeDateFormat": "D8",
+                            "procedureDate": "20140314",
+                            "qualifier": "BBQ"
+                        }
+                    ]
+                }
+            ],
+            "payer": [
+                {
+                    "identificationCodeQualifier": "PI",
+                    "payerName": "CIGNA",
+                    "primaryIdentifier": "029053964",
+                    "secondaryReferenceIdentifier": null,
+                    "secondaryRefIDQualifier": null
+                }
+            ],
+            "payment": {
+                "amountQualifierCode": null,
+                "monetaryPayment": null,
+                "patientPaidAmount": null,
+                "patientResponsibilityAmount": null,
+                "valueAddedNetworkTraceID": "AIMS_REG_BI_0717"
+            },
+            "principalDiagnosisInfo": {
+                "HCCodeInformation": [
+                    {
+                        "admissionIndicator": "N",
+                        "code": "S62514A",
+                        "qualifier": "ABK"
+                    }
+                ]
+            },
+            "principalProcedureInformation": {
+                "code": {
+                    "procedureCode": "0PHJ0CZ",
+                    "procedureDate": "20140314",
+                    "procedureCodeDateFormat": "D8",
+                    "qualifier": "BBR"
+                }
+            },
+            "subscriber": {
+                "claimFilingIndicatorCode": "15",
+                "dateOfBirth": "19750405",
+                "entityTypeQualifier": "1",
+                "firstName": "PRASANTH",
+                "gender": "M",
+                "hierarchicalChildCode": "0",
+                "hierarchicalIDNumber": "2",
+                "hierarchicalLevelCode": "22",
+                "hierarchicalParentIDNumber": "1",
+                "ID": "814082221",
+                "identificationCodeQualifier": "MI",
+                "individualDeathDate": null,
+                "individualRelationshipCode": "18",
+                "insuranceTypeCode": null,
+                "lastName": "HARI",
+                "middleName": null,
+                "propertyCasualtyClaimID": null,
+                "SSN": null,
+                "suffix": null,
+                "address": [
+                    {
+                        "addressLine1": "85 LAKSHORE STREET",
+                        "addressLine2": null,
+                        "city": "BLOMIFIED",
+                        "communicationNumberQualifier": null,
+                        "country": null,
+                        "countrySubdivisionCode": null,
+                        "phone": null,
+                        "postalCode": "06002",
+                        "state": "CT"
+                    }
+                ]
+            }
+        },
+        "claimLine": [
+            {
+                "adjustedRepricedClaimNo": null,
+                "adjReprLnRefNumber": null,
+                "ambulancePatientCount": null,
+                "assignedNumber": "1",
+                "certificationRevisionDate": null,
+                "CLIAFacilityID": null,
+                "CLIANo": null,
+                "compositeMedicalProcedureCode": null,
+                "compositeMedicalProductOrServiceIDQualifier": null,
+                "DMEPurchasePrice": null,
+                "DMERentalPrice": null,
+                "DMEDuration": null,
+                "DMECertificationType": null,
+                "DMERCConditionIndicator": null,
+                "DMEAttachmentTransmissionCode": null,
+                "facilityTax": null,
+                "hospiceEmployerCondIndicator": null,
+                "immunizationBatchNo": null,
+                "initialTreatmentDate": null,
+                "lastCertificationDate": null,
+                "lastSeenDate": null,
+                "lastXRayDate": null,
+                "lengthOfMedicalNecessity": null,
+                "lineItemControlNumber": null,
+                "lineNumber": "1",
+                "mammographyCertNo": null,
+                "noteReferenceCode": null,
+                "notes": null,
+                "obstetricAnesthsiaAdditionalUnits": null,
+                "prescriptionDate": null,
+                "postageClaimedAmount": null,
+                "predeterminationOfBenefitsID": null,
+                "purchasedServiceChargeAmount": null,
+                "purchasedServiceProviderIdentifier": null,
+                "rentalUnitPriceIndicator": null,
+                "replacementDate": null,
+                "repricedClaimNo": null,
+                "salesTax": null,
+                "serviceFromDate": "20140314",
+                "serviceTax": null,
+                "serviceToDate": "20140314",
+                "shippedDate": null,
+                "therapyStartDate": null,
+                "thirdPartyOrganizationNotes": null,
+                "medicalProductOrServiceIDQualifier": null,
+                "procedureCode": null,
+                "procedureDescription": null,
+                "revenueCode": "0500",
+                "serviceUnitCount": 1,
+                "unit": "UN",
+                "extension": {
+                    "orthondonticBandingDate": null,
+                    "replacementDate": null,
+                    "priorPlacementDate": null,
+                    "priorPlacementQualifier": null,
+                    "procedureCodeType": null,
+                    "treatmentCompletionDate": null,
+                    "treatmentStartDate": null
+                },
+                "payment": {
+                    "lineItemChargeAmount": 300,
+                    "monetaryPayment": null
+                }
+            },
+            {
+                "adjustedRepricedClaimNo": null,
+                "adjReprLnRefNumber": null,
+                "ambulancePatientCount": null,
+                "assignedNumber": "2",
+                "certificationRevisionDate": null,
+                "CLIAFacilityID": null,
+                "CLIANo": null,
+                "compositeMedicalProcedureCode": null,
+                "compositeMedicalProductOrServiceIDQualifier": null,
+                "DMEPurchasePrice": null,
+                "DMERentalPrice": null,
+                "DMEDuration": null,
+                "DMECertificationType": null,
+                "DMERCConditionIndicator": null,
+                "DMEAttachmentTransmissionCode": null,
+                "facilityTax": null,
+                "hospiceEmployerCondIndicator": null,
+                "immunizationBatchNo": null,
+                "initialTreatmentDate": null,
+                "lastCertificationDate": null,
+                "lastSeenDate": null,
+                "lastXRayDate": null,
+                "lengthOfMedicalNecessity": null,
+                "lineItemControlNumber": null,
+                "lineNumber": "2",
+                "mammographyCertNo": null,
+                "noteReferenceCode": null,
+                "notes": null,
+                "obstetricAnesthsiaAdditionalUnits": null,
+                "prescriptionDate": null,
+                "postageClaimedAmount": null,
+                "predeterminationOfBenefitsID": null,
+                "purchasedServiceChargeAmount": null,
+                "purchasedServiceProviderIdentifier": null,
+                "rentalUnitPriceIndicator": null,
+                "replacementDate": null,
+                "repricedClaimNo": null,
+                "salesTax": null,
+                "serviceFromDate": "20140314",
+                "serviceTax": null,
+                "serviceToDate": "20140314",
+                "shippedDate": null,
+                "therapyStartDate": null,
+                "thirdPartyOrganizationNotes": null,
+                "medicalProductOrServiceIDQualifier": null,
+                "procedureCode": null,
+                "procedureDescription": null,
+                "revenueCode": "0300",
+                "serviceUnitCount": 1,
+                "unit": "UN",
+                "extension": {
+                    "orthondonticBandingDate": null,
+                    "replacementDate": null,
+                    "priorPlacementDate": null,
+                    "priorPlacementQualifier": null,
+                    "procedureCodeType": null,
+                    "treatmentCompletionDate": null,
+                    "treatmentStartDate": null
+                },
+                "payment": {
+                    "lineItemChargeAmount": 300,
+                    "monetaryPayment": null
+                }
+            }
+        ],
+        "EDITransaction": {
+            "claimMediaType": "ENS0000000000PB",
+            "claimType": "11",
+            "claimOrEncounterIdentifier": "CH",
+            "implementationGuideVersionName": "005010X223A2",
+            "receiverPrimaryIdentifier": "908887732000",
+            "receiverName": "CIGNA HEALTHCARE",
+            "transactionSetCreationDate": "20140315",
+            "transactionSetCreationTime": "0000",
+            "transactionSetControlID": "000050103",
+            "transactionSetIdentifierCode": "837",
+            "transactionSetPurposeCode": "00",
+            "submitter": {
+                "submitterID": "841162764",
+                "submitterIdentificationCodeQualifier": "2",
+                "submitterFirstName": null,
+                "submitterLastOrOrganizationName": "HAP",
+                "submitterMiddleNameOrInitial": null
+            },
+            "submitterContact": [
+                {
+                    "submitterEDIContactName": "JERRY",
+                    "submitterEDICommunicationNumber": [
+                        "3055552222",
+                        "231",
+                        null
+                    ],
+                    "submitterEDICommunicationNumberQualifier": [
+                        "TE",
+                        "EX",
+                        null
+                    ]
+                }
+            ]
+        }
+    }
+} 
