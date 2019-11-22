@@ -1,27 +1,31 @@
 {
-	"file_data" : {
-		"file_info": [
-			{
-					"file_name" : "3b027c28517a437c4fb12221e6c55280c431014da38e7bc249cac82afc8e840f.exe",
-					"md5": "6d0d595d9f7c1913a09d3d262750e4fe",
-					"sha1": "b6818167a53139b7379426d8ec5433abf7e3137f",
-					"sha256": "a18109557be294cdf3988168e6325ce76d8e87001d096cf148f42fbef8e9f0ee",
-					"sha512": "28327e3942e43db62917a5469c167884d92c98138bd4a9cb3ad6ebb321423671a17285087fe899550706dff2b5ae170338676baef1402b1817bccdfa55f7a63b"
-			},
-			{
-					"file_name" : "3b027c28517a437c4fb12221e6c55280c431014da38e7bc249cac82afc8e840f.txt",
-					"md5": "f4e57273e288d5a4b855f261a8a51e3e",
-					"sha1": "5086b323c2b28ee25c82f2b3fe7ae427bcd3a2fd",
-					"sha256": "2aced31e5ebb0b610c660dcf6e82d2949dbb96afe6894c098a23dd56547e60c1",
-					"sha512": "c7aac5f01267a582bbd694edd72ae6398a453174baf58dfa1bc6513fc7f874d729b923ed5e28a6a0d999040736ea2cc9e4dc13eb575e990c23ab3ce804461e79"
-			},
-			{
-					"file_name" : "3b027c28517a437c4fb12221e6c55280c431014da38e7bc249cac82afc8e840f.pdf",
-					"md5": "6d0d595d9f7c1913a09d3d262750e4fe",
-					"sha1": "b6818167a53139b7379426d8ec5433abf7e3137f",
-					"sha256": "a18109557be294cdf3988168e6325ce76d8e87001d096cf148f42fbef8e9f0ee",
-					"sha512": "28327e3942e43db62917a5469c167884d92c98138bd4a9cb3ad6ebb321423671a17285087fe899550706dff2b5ae170338676baef1402b1817bccdfa55f7a63b"
-			}
-		]
-	}
+    "file_data": [
+        {
+            "file_name": "6125e12a7ec55988aff3c2c860a47b0dce2597b289518f3a06249119a4ca16c8.exe",
+            "hashes": {
+                "md5": "61e08a8762befc0b9da02da50be0c12c",
+                "sha1": "62eb10a4e3c37a40706d3134dc4a1583fcfe7fdc",
+                "sha256": "6125e12a7ec55988aff3c2c860a47b0dce2597b289518f3a06249119a4ca16c8",
+                "sha512": "26cf5c3bd47afa49475b6bae6e8310ebbf1d7ac4c376ac0b895f6c22b7e6b8ea43e8ce7e3359ec084ff280803d99d19e24a9fb74343584d6136558b268541d15"
+            }
+        },
+        {
+            "file_name": "81b234f9533ed1ecc3ea9ba54ff964918beccbda2b466d9c2826471a6aa0ee86.pdf",
+            "hashes": {
+                "md5": "421917cb6c572ac4981f1c49817fc35e",
+                "sha1": "501c31e9ae5c835f717b833515609a1da63a61c2",
+                "sha256": "81b234f9533ed1ecc3ea9ba54ff964918beccbda2b466d9c2826471a6aa0ee86",
+                "sha512": "c74d2db1b2cd2fbcc374d5f4924700eae5c4c48f86c34ab826d6f45d4b373e8bd62c3e2921332b8eecd7d0f6076b2529a4fc35cb453eb8aaf1ccb2451317ab9f"
+            }
+        },
+        {
+            "file_name": "fc16f4f1d132ed9b3f7a899589a7e42e77cfa7245c8b053d7d8a6b46c6ca7e04.sh",
+            "hashes": {
+                "md5": "ab09f5efe8eff98f158dd41305781a35",
+                "sha1": "d2bfe854eb6c2e9b79c8aa2a085ea3fda489081f",
+                "sha256": "fc16f4f1d132ed9b3f7a899589a7e42e77cfa7245c8b053d7d8a6b46c6ca7e04",
+                "sha512": "20807fe68aa5a5259f624fe9ff992864a5b0d696afd3462d2e2a773e4ea4c741a702e62466a14c05163c836dc4af7ee5cedef372ba4bacf7530a89fcba30f311"
+            }
+        }
+    ]
 }
