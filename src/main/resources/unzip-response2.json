@@ -17,6 +17,41 @@
 					"orig_file_name": "test1.pdf",
 					"file_name": "test1.pdf",
 					"path": "/home/ecurry/customers/DHS/Malware/test/workflow/test1"
+				},
+				{
+					"orig_file_name": "test1.class",
+					"file_name": "test1.class",
+					"path": "/home/ecurry/customers/DHS/Malware/test/workflow/test1"
+				},
+				{
+					"orig_file_name": "test1.doc",
+					"file_name": "test1.doc",
+					"path": "/home/ecurry/customers/DHS/Malware/test/workflow/test1"
+				},
+				{
+					"orig_file_name": "test1.ini",
+					"file_name": "test1.ini",
+					"path": "/home/ecurry/customers/DHS/Malware/test/workflow/test1"
+				},
+				{
+					"orig_file_name": "test1.php",
+					"file_name": "test1.php",
+					"path": "/home/ecurry/customers/DHS/Malware/test/workflow/test1"
+				},
+				{
+					"orig_file_name": "test1.png",
+					"file_name": "test1.png",
+					"path": "/home/ecurry/customers/DHS/Malware/test/workflow/test1"
+				},
+				{
+					"orig_file_name": "test1.py",
+					"file_name": "test1.py",
+					"path": "/home/ecurry/customers/DHS/Malware/test/workflow/test1"
+				},
+				{
+					"orig_file_name": "test1.sh",
+					"file_name": "test1.sh",
+					"path": "/home/ecurry/customers/DHS/Malware/test/workflow/test1"
 				}
 			]
 		}

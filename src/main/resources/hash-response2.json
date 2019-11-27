@@ -26,6 +26,69 @@
                 "sha256": "fc16f4f1d132ed9b3f7a899589a7e42e77cfa7245c8b053d7d8a6b46c6ca7e04",
                 "sha512": "20807fe68aa5a5259f624fe9ff992864a5b0d696afd3462d2e2a773e4ea4c741a702e62466a14c05163c836dc4af7ee5cedef372ba4bacf7530a89fcba30f311"
             }
+        },
+        {
+            "file_name": "test1.class",
+            "hashes": {
+                "md5": "ab09f5efe8eff98f158dd41305781a35",
+                "sha1": "d2bfe854eb6c2e9b79c8aa2a085ea3fda489081f",
+                "sha256": "fc16f4f1d132ed9b3f7a899589a7e42e77cfa7245c8b053d7d8a6b46c6ca7e04",
+                "sha512": "20807fe68aa5a5259f624fe9ff992864a5b0d696afd3462d2e2a773e4ea4c741a702e62466a14c05163c836dc4af7ee5cedef372ba4bacf7530a89fcba30f311"
+            }
+        },
+        {
+            "file_name": "test1.doc",
+            "hashes": {
+                "md5": "ab09f5efe8eff98f158dd41305781a35",
+                "sha1": "d2bfe854eb6c2e9b79c8aa2a085ea3fda489081f",
+                "sha256": "fc16f4f1d132ed9b3f7a899589a7e42e77cfa7245c8b053d7d8a6b46c6ca7e04",
+                "sha512": "20807fe68aa5a5259f624fe9ff992864a5b0d696afd3462d2e2a773e4ea4c741a702e62466a14c05163c836dc4af7ee5cedef372ba4bacf7530a89fcba30f311"
+            }
+        },
+        {
+            "file_name": "test1.ini",
+            "hashes": {
+                "md5": "ab09f5efe8eff98f158dd41305781a35",
+                "sha1": "d2bfe854eb6c2e9b79c8aa2a085ea3fda489081f",
+                "sha256": "fc16f4f1d132ed9b3f7a899589a7e42e77cfa7245c8b053d7d8a6b46c6ca7e04",
+                "sha512": "20807fe68aa5a5259f624fe9ff992864a5b0d696afd3462d2e2a773e4ea4c741a702e62466a14c05163c836dc4af7ee5cedef372ba4bacf7530a89fcba30f311"
+            }
+        },
+        {
+            "file_name": "test1.php",
+            "hashes": {
+                "md5": "ab09f5efe8eff98f158dd41305781a35",
+                "sha1": "d2bfe854eb6c2e9b79c8aa2a085ea3fda489081f",
+                "sha256": "fc16f4f1d132ed9b3f7a899589a7e42e77cfa7245c8b053d7d8a6b46c6ca7e04",
+                "sha512": "20807fe68aa5a5259f624fe9ff992864a5b0d696afd3462d2e2a773e4ea4c741a702e62466a14c05163c836dc4af7ee5cedef372ba4bacf7530a89fcba30f311"
+            }
+        },
+        {
+            "file_name": "test1.py",
+            "hashes": {
+                "md5": "ab09f5efe8eff98f158dd41305781a35",
+                "sha1": "d2bfe854eb6c2e9b79c8aa2a085ea3fda489081f",
+                "sha256": "fc16f4f1d132ed9b3f7a899589a7e42e77cfa7245c8b053d7d8a6b46c6ca7e04",
+                "sha512": "20807fe68aa5a5259f624fe9ff992864a5b0d696afd3462d2e2a773e4ea4c741a702e62466a14c05163c836dc4af7ee5cedef372ba4bacf7530a89fcba30f311"
+            }
+        },
+        {
+            "file_name": "test1.png",
+            "hashes": {
+                "md5": "ab09f5efe8eff98f158dd41305781a35",
+                "sha1": "d2bfe854eb6c2e9b79c8aa2a085ea3fda489081f",
+                "sha256": "fc16f4f1d132ed9b3f7a899589a7e42e77cfa7245c8b053d7d8a6b46c6ca7e04",
+                "sha512": "20807fe68aa5a5259f624fe9ff992864a5b0d696afd3462d2e2a773e4ea4c741a702e62466a14c05163c836dc4af7ee5cedef372ba4bacf7530a89fcba30f311"
+            }
+        },
+        {
+            "file_name": "test1.sh",
+            "hashes": {
+                "md5": "ab09f5efe8eff98f158dd41305781a35",
+                "sha1": "d2bfe854eb6c2e9b79c8aa2a085ea3fda489081f",
+                "sha256": "fc16f4f1d132ed9b3f7a899589a7e42e77cfa7245c8b053d7d8a6b46c6ca7e04",
+                "sha512": "20807fe68aa5a5259f624fe9ff992864a5b0d696afd3462d2e2a773e4ea4c741a702e62466a14c05163c836dc4af7ee5cedef372ba4bacf7530a89fcba30f311"
+            }
         }
     ]
 }
